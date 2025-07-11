@@ -30,7 +30,7 @@ while True:
         print("Flag trovata!")
         print(data2)
         break
-
+#flag{th3_f45t35t_f1ng3r_1n_cyb3rsp4c3}
 flag = r.recvline().decode().strip()
 print(flag)
-
+flag{}
