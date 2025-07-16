@@ -16,3 +16,6 @@ Volendo si può anche decifrare la password con la chiave, ottenerla, e fare log
 <img width="739" height="246" alt="immagine" src="https://github.com/user-attachments/assets/e1d53e7c-6395-4053-9ed2-8c7fab168286" />
 
 
+<img width="441" height="388" alt="immagine" src="https://github.com/user-attachments/assets/b2db9ebe-7a5e-4252-aa00-bfb3a2a4a491" />
+
+
