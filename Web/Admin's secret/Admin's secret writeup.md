@@ -10,7 +10,7 @@ In particolare, quando ci registriamo viene eseguita la query ```"INSERT INTO us
 
 Notiamo subito che di default admin viene impostata a false, il nostro compito è di trovare un modo per far si che venga impostata a true
 
-usiamo quindi la seguente query in register.php:
+usiamo quindi questo payload in register.php:
 
 username: ```username', 'password', true) --``` 
 
