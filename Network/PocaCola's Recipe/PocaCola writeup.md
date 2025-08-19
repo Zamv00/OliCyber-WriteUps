@@ -5,6 +5,7 @@ A questo punto ci vengono evidenziati due pacchetti:
 <img width="1476" height="110" alt="immagine" src="https://github.com/user-attachments/assets/ddf60679-cf34-4210-b2ab-cf06aee2e2ce" />
 
 Seguendo il flusso del primo:
+
 <img width="764" height="72" alt="immagine" src="https://github.com/user-attachments/assets/86d972d2-b9e5-4314-87f3-a643c0d562fb" />
 
 Seguendo il flusso del secondo:
