@@ -1,0 +1,5 @@
+{"ciphertext":"faq maxxo waq zlmmrf wr fohgkl jrgl mr krgkojlr iak pfl haqjl ohzpkl, zba ql wrkrggl jrl akl hmlkkrgl. lbr splfgo l wrk splq akl a' zohl wpkl ahgl haqjl haqjlccrl a lhikl a uokga zba faq iafhrak krfojl ql ilpkl! glfg' a' lmlkl zba iozo a' irp' mokga; ml iak gklgglk waq vaf zb'r' jr gkojlr, wrko' wa q'lqgka zoha zb'r' j'bo hzokga. ml pfl vaqql hokikahl m'liilkja: uqlc{mofolqiblvagrz_hpvhgrgpgrof_rh_fog_l_coow_rwal_xxxx}"}
+
+In questo caso ci basta inserire il ciphertext su [quipquip](https://quipqiup.com/) inserendo le lettere che già sappiamo (in questo caso uqlc = flag):
+
+"nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, che la diritta via era smarrita. ahi quanto a dir qual era e' cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura! tant' e' amara che poco e' piu' morte; ma per trattar del ben ch'i' vi trovai, diro' de l'altre cose ch'i' v'ho scorte. ma una bella sorpresa m'apparve: **flag{monoalphabetic_substitution_is_not_a_good_idea_zzzz}**"
