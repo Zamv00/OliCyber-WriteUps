@@ -4,6 +4,6 @@ Se isoliamo uno dei canali vediamo una flag cifrata con cifrario di cesare nell'
 
 synt{fg3t0_1f_shaal}
 
-è un semplice ro13
+è un semplice rot13
 
 **flag{st3g0_1s_funny}**
