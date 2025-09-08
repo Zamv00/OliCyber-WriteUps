@@ -15,4 +15,4 @@ r.sendline(b"cat flag.txt")
 flag = r.recvuntil(b"}").decode()
 print(flag)
 
-#lag{b3lla_st4_sh3ll_ssh...}
+#flag{b3lla_st4_sh3ll_ssh...}
