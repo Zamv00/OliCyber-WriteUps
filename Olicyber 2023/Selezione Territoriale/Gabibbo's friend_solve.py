@@ -2,6 +2,7 @@ import requests
 
 site = "http://gabibbo_friend.challs.olicyber.it/"
 
+
 r = requests.get(f"{site}/get-picture?id=-3")
 print(r.text)
 
