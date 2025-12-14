@@ -11,7 +11,7 @@ Osservando il codice php notiamo due parti interessanti:
 
 <img width="334" height="59" alt="immagine" src="https://github.com/user-attachments/assets/a7fc80ba-8634-49ff-9ef6-f82860e96aa6" />
 
-Ci serve un modo per fare path traversal a dove si trovla la flag (presumibilmente flag.txt) bypassando sia il blocco sul ../ che sull'estensione.
+Ci serve un modo per fare path traversal a dove si trova la flag (presumibilmente flag.txt) bypassando sia il blocco sul ../ che sull'estensione.
 
 Utilizziamo .../ per salire le directory (. + ./) e facciamo una null byte injection per bypassare il controllo sull'estensione
 
