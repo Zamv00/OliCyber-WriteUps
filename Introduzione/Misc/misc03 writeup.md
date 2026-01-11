@@ -1,0 +1,1 @@
+Scaricando gli allegati (flag.txt) otteniamo la flag: **flag{D0wnL04d_4t74Chm3n75}**
