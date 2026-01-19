@@ -1,3 +1,4 @@
+#non ho idea di come si faccia crypto
 from pwn import *
 
 host = "crypto-08.challs.olicyber.it"
